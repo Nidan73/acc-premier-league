@@ -262,7 +262,7 @@ Place images in `./assets/` and reference them here:
 
 * **Admin — Update Results**
 
-* **Knockout Bracket**
+* **Knockout Bracket*
 
 ---
 
@@ -292,4 +292,4 @@ If you intend others to reuse, add a license (e.g., MIT). Otherwise GitHub defau
 
 * Firebase Web SDK team & docs
 * Netlify static hosting
-* Friends/teammates who helped track fixtures and results
+  
